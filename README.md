@@ -1,23 +1,23 @@
 ![logo](https://github.com/bhush-n/bhush-n/blob/main/1679306260249.jpeg)
 
 <h1 align="center">Hi 👋, I'm Bhushan Chaudhari</h1>
-<h3 align="center">A passionate Django developer from India</h3>
+<h3 align="center">A passionate Technical Consultant from India</h3>
 
 <img align="right" alt="Bhushan Chaudhari" width="400px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhush-n&label=Profile%20views&color=0e75b6&style=flat" alt="bhush-n" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhush-n](https://github.com/bhush-n)
 
-- 💬 Ask me about **Django, Project Management, Backend, Cloud**
+- 💬 Ask me about **Python, Networking, CompTIA security A+, DNS, DHCP, Windows, OS management, SOC, Project Management, Backend, Cloud**
 
 - 📫 How to reach me **bhushanch45@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/163mulB-U5JzlC01ZiG-XSQPSNrV3v3VE/view?usp=drive_link](https://drive.google.com/file/d/163mulB-U5JzlC01ZiG-XSQPSNrV3v3VE/view?usp=drive_link)
 
-- ⚡ Fun fact **I am sarcastic developer**
+- ⚡ Fun fact **I am sarcastic engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
