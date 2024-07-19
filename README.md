@@ -1,4 +1,4 @@
-![logo](https://github.com/bhush-n/bhush-n/blob/main/1679306260249.jpeg)
+![logo](https://github.com/bhush-n/bhush-n/blob/main/1679306260249.png)
 
 <h1 align="center">Hi 👋, I'm Bhushan Chaudhari</h1>
 <h3 align="center">A passionate Technical Consultant from India</h3>
